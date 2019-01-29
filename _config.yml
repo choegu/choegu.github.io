@@ -1,9 +1,10 @@
-title: 30대 아재의 개발 전직 도전기
+title: CHOE_DEV
 author: 최형석
 email: chs4922@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Android, Java, Kotlin, Rxjava
-  Tizen, Javascript
+  Android, Tizen
+
+  Java, Kotlin, Rxjava, Javascript
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -39,8 +40,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: minima
