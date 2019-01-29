@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Android Ripple 효과 쉽게 주기"
 categories: Android
 ---
