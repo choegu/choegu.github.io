@@ -19,13 +19,6 @@ layout: default
     {{ content }}
   </div>
 
-  <span class="post-category">
-    Category:
-    
-    <a href="https://choegu.github.io/categories/{{ page.categories }}">{{ page.categories }}</a>
-  </span>
-  <p></p>
-
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
