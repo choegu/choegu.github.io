@@ -3,8 +3,10 @@ author: 최형석
 email: chs4922@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   Android, Tizen
-
+  \n
   Java, Kotlin, Rxjava, Javascript
+  <br>
+  test
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
