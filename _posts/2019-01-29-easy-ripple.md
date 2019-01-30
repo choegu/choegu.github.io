@@ -20,3 +20,12 @@ android:foreground="?selectableItemBackgroundBorderless"
 ``` xml
 android:background="?selectableItemBackgroundBorderless"
 ```
+
+TIP.
+foreground에도 이미지 리소스 넣는 것이 가능하니, 내부가 투명한 프레임 이미지는 백그라운드처럼 사용하면서 원형리플효과를 줄 수 있다.
+``` xml
+android:background="?selectableItemBackgroundBorderless"
+android:foreground="프레임 리소스"
+android:padding="2dp"
+android:src="이미지 리소스"
+```
