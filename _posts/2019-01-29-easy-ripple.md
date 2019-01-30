@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Android] Ripple 효과 쉽게 주기
+title: "[Android] Ripple 효과 쉽게 주기"
 categories: Android
 ---
 안드로이드 View에 리플효과 쉽게 주는 방법
