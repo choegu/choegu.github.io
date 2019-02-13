@@ -6,7 +6,7 @@ categories: Android
 
 문자열 encrypt
 
-``` java
+```java
 public static String encryptXOR(String text, String cipher) {
     char[] key = cipher.toCharArray();
 
